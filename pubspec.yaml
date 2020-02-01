@@ -2,7 +2,7 @@ name: pretty_json
 description: A small wrapper for pretty printing JSON objects
 version: 1.0.0
 
-homepage: https://github.com/Ferdzzzzzzzz/edit_json_file/pretty_json
+homepage: https://github.com/Ferdzzzzzzzz/pretty_json
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
