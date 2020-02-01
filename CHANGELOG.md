@@ -1,3 +1,7 @@
+## 1.0.6
+
+- Small documentation fix
+
 ## 1.0.5
 
 - Small documentation fix
