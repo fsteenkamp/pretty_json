@@ -52,6 +52,7 @@ Pull requests and issues always welcome.
 
 **Ferdinand Steenkamp**
 
+* [Website](https://ferdzz.com)
 * [GitHub Profile](https://github.com/Ferdzzzzzzzz)
 * [Twitter Profile](https://twitter.com/therealferdz)
 * [LinkedIn Profile](https://www.linkedin.com/in/ferdinand-steenkamp-552335181/)
@@ -61,6 +62,6 @@ Pull requests and issues always welcome.
 ## License
 
 Copyright © 2020, [Ferdinand Steenkamp](https://github.com/Ferdzzzzzzzz).
-Released under the [MIT License](LICENSE).
+Released under the [BSD License](LICENSE).
 
 
