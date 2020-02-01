@@ -40,8 +40,8 @@ Printing an object out:
 
 Params:
 
-    @required Json object, type Map<String,dynamic>
-    @optional indent, type int
+    @required Map<String,dynamic>
+    @optional indent: int
 
 
 ## About
