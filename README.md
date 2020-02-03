@@ -35,7 +35,11 @@ Printing an object out:
           },
         }
 
+        //prettyJson returns a string
         print(prettyJson(json, indent: 2));
+        
+        //printPrettyJson does the print for us
+        prettyJson(json, indent: 2);
     }
 
 Params:

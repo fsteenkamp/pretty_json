@@ -1,6 +1,6 @@
 name: pretty_json
 description: A small wrapper for pretty printing JSON objects in a more human readable format. Typically this package would be used for network logging and debugging objects.
-version: 1.0.6
+version: 1.0.7
 
 homepage: https://github.com/Ferdzzzzzzzz/pretty_json
 

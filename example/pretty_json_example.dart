@@ -11,4 +11,5 @@ void main() {
   };
 
   print(prettyJson(json, indent: 2));
+  printPrettyJson(json);
 }
