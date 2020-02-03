@@ -1,3 +1,7 @@
+## 1.0.8
+
+- Docs fix
+
 ## 1.0.7
 
 - Added printPrettyJson function
