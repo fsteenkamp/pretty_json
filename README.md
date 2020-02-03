@@ -39,7 +39,7 @@ Printing an object out:
         print(prettyJson(json, indent: 2));
         
         //printPrettyJson does the print for us
-        prettyJson(json, indent: 2);
+        printPrettyJson(json, indent: 2);
     }
 
 Params:
