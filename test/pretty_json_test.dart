@@ -20,14 +20,16 @@ void main() {
       expect(prettyJson(json), equals(test));
     });
     test('Pretty test String', () {
-      var json = [<String, dynamic>{
-        'a': 'value a',
-        'b': 'value b',
-        'c': {
-          'd': 'value d',
-          'e': [1, 2, 3]
-        },
-      }];
+      var json = [
+        <String, dynamic>{
+          'a': 'value a',
+          'b': 'value b',
+          'c': {
+            'd': 'value d',
+            'e': [1, 2, 3]
+          },
+        }
+      ];
 
       var encoder = JsonEncoder.withIndent('  ');
       var test = encoder.convert(json);
