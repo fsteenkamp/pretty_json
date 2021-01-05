@@ -2,7 +2,7 @@
 
 > A small wrapper to print JSON objects (`Map<String,dynamic>`) out neatly.
 
-This is a small `Dart` wrapper for printing JSON (represented as `Map<String,dynamic>` in `Dart`) in a more readable format. Please consider following the author of this project to show some :heart:, [Ferdinand Steenkamp](https://github.com/Ferdzzzzzzzz/) and starring the project :star: if you use it.
+This is a small `Dart` wrapper for printing JSON (represented as `Map<String,dynamic>` or a `List` in `Dart`) in a more readable format. Please consider following the author of this project to show some :heart:, [Ferdinand Steenkamp](https://github.com/Ferdzzzzzzzz/) and starring the project :star: if you use it.
 
 ## Install
 Install with [pub.dev](https://pub.dev/), add this to your `pubspec.yaml`:

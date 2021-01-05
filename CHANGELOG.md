@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Added support for List
+
 ## 1.0.8
 
 - Docs fix
