@@ -1,3 +1,7 @@
+## 1.1.0-nullsafety
+
+- Package complies with nullsafety
+
 ## 1.1.0
 
 - Added support for List
