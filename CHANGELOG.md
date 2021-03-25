@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Nullsafe stable release
+
 ## 1.1.0-nullsafety
 
 - Package complies with nullsafety
